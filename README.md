@@ -1,2 +1,2 @@
-# Multi-Maintenance-Opencart3
-Multi Maintenance Opencart3
+# MultiStore Maintenance-Extension for Opencart v.3.x
+MultiStore Maintenance Extension for Opencart v.3.x
